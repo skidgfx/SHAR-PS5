@@ -1,0 +1,15 @@
+# Never commit game data or built title folders
+PPSA*/
+assets/
+*.rmv
+*.shfmv
+*.shfmv.partial
+*.rcf
+*.p3d
+*.zip
+eboot.bin
+*.prx
+
+# Python
+__pycache__/
+*.pyc
